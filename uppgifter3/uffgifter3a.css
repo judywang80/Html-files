@@ -1,0 +1,18 @@
+html{
+    background-color: rgba(169, 169, 169, 0.856);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:rgba(35, 66, 4, 0.274);
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:yellow;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color:red;
+}

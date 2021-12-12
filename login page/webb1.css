@@ -1,0 +1,23 @@
+body{
+    background-image: url("background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 980px;
+}
+#top{
+
+    height:100px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#main{
+    height: 800px;
+    text-align:left;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

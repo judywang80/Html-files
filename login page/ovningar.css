@@ -1,0 +1,52 @@
+body{
+    background-image: url("background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 980px;
+}
+
+
+
+li{
+    list-style-type: none;
+    margin:30px;
+}
+#meny li{
+   
+    display: inline-block;
+}
+#meny{
+    height: 80px;
+    width:100%;
+    background-color: cornflowerblue; 
+    position:relative;
+    margin:0px 0px  0px 0px;
+   
+}
+#main{
+    height: 700px;
+    width: 100%;
+    position: fixed;
+    margin:0;
+    padding:top;
+   align-content: center;
+    
+}
+#content li{
+    display: inline-block;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color:cornsilk;
+    font-size: 28px;
+    margin: 50px 50px 50px 50px;    
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 150px;
+
+
+}

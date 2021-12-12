@@ -1,0 +1,20 @@
+body{
+    background-image:url('./img/pic1.jpg');
+    background-repeat:repeat;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+    color:maroon;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    color:rgb(205, 50, 146);
+}
+#picture3{
+    width:300px;
+    float:right;
+    margin:0px 10px 15px 10px;
+}

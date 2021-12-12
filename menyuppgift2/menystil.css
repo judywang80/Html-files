@@ -1,0 +1,46 @@
+
+#menycontainer
+{
+    width:800px;
+    height:200px;  
+    background-color: rgb(179, 243, 243);  
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+#meny li
+
+{ 
+  list-style: none;   /* tar bort punkter I listan */
+  display: inline-block;	   /* länkarna läggs i en rad */
+ 
+ }
+ #pagecontent
+ {
+   background-color: burlywood;
+ }
+ 
+a:link
+{
+    width:25%;
+    justify-content: center;
+    text-align: center;
+    color:blue;
+}
+a:visited
+{
+    color:blueviolet(255, 105, 230);
+}
+a:hover
+{
+    color:green;
+}
+a:active
+{
+    color:yellow;
+}

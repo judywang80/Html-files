@@ -1,0 +1,39 @@
+ul{
+    list-style: none;
+
+}
+
+li{
+    display: inline-block;
+}
+
+nav{
+    width:800px;
+    background-color: aqua;
+    display: flex;
+}
+
+a:link
+{
+    width:25%;
+    justify-content: center;
+    text-align: center;
+    color:blue;
+}
+a:visited
+{
+    color:blueviolet(255, 105, 230);
+}
+a:hover
+{
+    color:green;
+}
+a:active
+{
+    color:yellow;
+}
+
+#menycontainer
+{
+    background-color:rgb(226, 166, 166));
+}

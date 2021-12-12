@@ -1,0 +1,23 @@
+html{
+    background-color: yellow;
+}
+div{
+    background-color: rgb(28, 178, 224);
+}
+h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+    color:red;
+}
+#text2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:green;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:black;
+}

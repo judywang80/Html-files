@@ -1,0 +1,33 @@
+body{
+    background-image: url("background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 980px;
+}
+#top{
+
+    height:100px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#logo{
+    height:300px;
+    background-color: rgba(37, 37, 226, 0.384);   
+    text-align:left;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(182, 22, 22);
+  line-height: 300px ;
+
+}
+#main{
+    height: 800px;
+    text-align:left;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
